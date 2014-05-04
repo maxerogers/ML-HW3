@@ -1,0 +1,15 @@
+Links to use:
+
+Nueral Network Links
+http://stackoverflow.com/questions/1514573/neural-network-example-source-code-preferably-python
+
+
+Support Vector Machine Links
+http://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf
+http://www.tristanfletcher.co.uk/SVM%20Explained.pdf
+http://research.microsoft.com/pubs/67119/svmtutorial.pdf
+http://www.cs.columbia.edu/~kathy/cs4701/documents/jason_svm_tutorial.pdf
+libsvm
+tinysvm
+svm-light
+https://github.com/febeling/rb-libsvm/tree/6cdee76bb9c782ef29b491ed349d40f79762471b
