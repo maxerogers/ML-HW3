@@ -2,6 +2,10 @@ Links to use:
 
 Nueral Network Links
 http://stackoverflow.com/questions/1514573/neural-network-example-source-code-preferably-python
+http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/
+http://www.ai-junkie.com/ann/evolved/nnt1.html
+http://blog.josephwilk.net/ruby/recurrent-neural-networks-in-ruby.html
+https://github.com/tangledpath/ruby-fann
 
 
 Support Vector Machine Links
@@ -13,3 +17,5 @@ libsvm
 tinysvm
 svm-light
 https://github.com/febeling/rb-libsvm/tree/6cdee76bb9c782ef29b491ed349d40f79762471b
+
+asdfsadfasf
